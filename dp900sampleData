@@ -1,1 +1,5 @@
-csvcode
+name, id, pass
+taro, 33, jjj
+john, 25, hkd
+karim, 498, bbko
+bastion, 8803, azure
