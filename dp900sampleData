@@ -1,5 +1,200 @@
-name, id, pass
-taro, 33, jjj
-john, 25, hkd
-karim, 498, bbko
-bastion, 8803, azure
+Season_End_Year,Date,HomeTeam,HomeTeamJP,AwayTeam,AwayTeamJP,HomeGoals,AwayGoals,Result
+1994,05/09/93,Ath Bilbao,ビルバオ,Albacete,アルバセテ,4,1,0
+1994,05/09/93,Ath Madrid,Aマドリード,Logrones,ログローニョ,1,0,0
+1994,05/09/93,Barcelona,バルセロナ,Sociedad,ソシエダ,3,0,0
+1994,05/09/93,La Coruna,デポルティーボ,Celta,セルタ,0,0,1
+1994,05/09/93,Osasuna,オサスナ,Real Madrid,Rマドリード,1,4,2
+1994,05/09/93,Oviedo,オビエド,Valencia,バレンシア,0,3,2
+1994,05/09/93,Santander,サンタンデール,Vallecano,ラージョ,1,0,0
+1994,05/09/93,Tenerife,テネリフェ,Lerida,リェイダ,1,0,0
+1994,05/09/93,Valladolid,バジャドリード,Sp Gijon,スポルティング,0,1,2
+1994,05/09/93,Zaragoza,サラゴサ,Sevilla,セビージャ,1,2,2
+1994,12/09/93,Albacete,アルバセテ,Barcelona,バルセロナ,0,0,1
+1994,12/09/93,Celta,セルタ,Oviedo,オビエド,1,1,1
+1994,12/09/93,Lerida,リェイダ,Ath Bilbao,ビルバオ,1,2,2
+1994,12/09/93,Logrones,ログローニョ,Santander,サンタンデール,0,1,2
+1994,12/09/93,Real Madrid,Rマドリード,Valladolid,バジャドリード,1,3,2
+1994,12/09/93,Sevilla,セビージャ,Osasuna,オサスナ,1,1,1
+1994,12/09/93,Sociedad,ソシエダ,Zaragoza,サラゴサ,2,2,1
+1994,12/09/93,Sp Gijon,スポルティング,La Coruna,デポルティーボ,0,2,2
+1994,12/09/93,Valencia,バレンシア,Ath Madrid,Aマドリード,2,2,1
+1994,12/09/93,Vallecano,ラージョ,Tenerife,テネリフェ,4,3,0
+1994,19/09/93,Ath Bilbao,ビルバオ,Barcelona,バルセロナ,0,0,1
+1994,19/09/93,Ath Madrid,Aマドリード,Celta,セルタ,3,2,0
+1994,19/09/93,La Coruna,デポルティーボ,Real Madrid,Rマドリード,4,0,0
+1994,19/09/93,Lerida,リェイダ,Vallecano,ラージョ,0,1,2
+1994,19/09/93,Osasuna,オサスナ,Sociedad,ソシエダ,0,2,2
+1994,19/09/93,Oviedo,オビエド,Sp Gijon,スポルティング,0,1,2
+1994,19/09/93,Santander,サンタンデール,Valencia,バレンシア,0,1,2
+1994,19/09/93,Tenerife,テネリフェ,Logrones,ログローニョ,2,0,0
+1994,19/09/93,Valladolid,バジャドリード,Sevilla,セビージャ,2,2,1
+1994,19/09/93,Zaragoza,サラゴサ,Albacete,アルバセテ,1,1,1
+1994,26/09/93,Albacete,アルバセテ,Osasuna,オサスナ,2,1,0
+1994,26/09/93,Barcelona,バルセロナ,Zaragoza,サラゴサ,4,1,0
+1994,26/09/93,Celta,セルタ,Santander,サンタンデール,0,0,1
+1994,26/09/93,Logrones,ログローニョ,Lerida,リェイダ,2,1,0
+1994,26/09/93,Real Madrid,Rマドリード,Oviedo,オビエド,0,1,2
+1994,26/09/93,Sevilla,セビージャ,La Coruna,デポルティーボ,0,0,1
+1994,26/09/93,Sociedad,ソシエダ,Valladolid,バジャドリード,1,0,0
+1994,26/09/93,Sp Gijon,スポルティング,Ath Madrid,Aマドリード,1,1,1
+1994,26/09/93,Valencia,バレンシア,Tenerife,テネリフェ,3,2,0
+1994,26/09/93,Vallecano,ラージョ,Ath Bilbao,ビルバオ,1,2,2
+1994,03/10/93,Ath Bilbao,ビルバオ,Zaragoza,サラゴサ,2,1,0
+1994,03/10/93,Ath Madrid,Aマドリード,Real Madrid,Rマドリード,0,0,1
+1994,03/10/93,La Coruna,デポルティーボ,Sociedad,ソシエダ,0,1,2
+1994,03/10/93,Lerida,リェイダ,Valencia,バレンシア,1,1,1
+1994,03/10/93,Osasuna,オサスナ,Barcelona,バルセロナ,2,3,2
+1994,03/10/93,Oviedo,オビエド,Sevilla,セビージャ,0,2,2
+1994,03/10/93,Santander,サンタンデール,Sp Gijon,スポルティング,2,0,0
+1994,03/10/93,Tenerife,テネリフェ,Celta,セルタ,0,0,1
+1994,03/10/93,Valladolid,バジャドリード,Albacete,アルバセテ,1,0,0
+1994,03/10/93,Vallecano,ラージョ,Logrones,ログローニョ,3,1,0
+1994,06/10/93,Albacete,アルバセテ,La Coruna,デポルティーボ,0,0,1
+1994,06/10/93,Barcelona,バルセロナ,Valladolid,バジャドリード,3,0,0
+1994,06/10/93,Celta,セルタ,Lerida,リェイダ,1,0,0
+1994,06/10/93,Logrones,ログローニョ,Ath Bilbao,ビルバオ,4,2,0
+1994,06/10/93,Real Madrid,Rマドリード,Santander,サンタンデール,2,1,0
+1994,06/10/93,Sevilla,セビージャ,Ath Madrid,Aマドリード,2,1,0
+1994,06/10/93,Sociedad,ソシエダ,Oviedo,オビエド,2,2,1
+1994,06/10/93,Sp Gijon,スポルティング,Tenerife,テネリフェ,1,2,2
+1994,06/10/93,Valencia,バレンシア,Vallecano,ラージョ,3,1,0
+1994,06/10/93,Zaragoza,サラゴサ,Osasuna,オサスナ,2,1,0
+1994,17/10/93,Ath Bilbao,ビルバオ,Osasuna,オサスナ,1,2,2
+1994,17/10/93,Ath Madrid,Aマドリード,Sociedad,ソシエダ,1,2,2
+1994,17/10/93,La Coruna,デポルティーボ,Barcelona,バルセロナ,1,0,0
+1994,17/10/93,Lerida,リェイダ,Sp Gijon,スポルティング,1,1,1
+1994,17/10/93,Logrones,ログローニョ,Valencia,バレンシア,2,0,0
+1994,17/10/93,Oviedo,オビエド,Albacete,アルバセテ,1,1,1
+1994,17/10/93,Santander,サンタンデール,Sevilla,セビージャ,1,0,0
+1994,17/10/93,Tenerife,テネリフェ,Real Madrid,Rマドリード,0,0,1
+1994,17/10/93,Valladolid,バジャドリード,Zaragoza,サラゴサ,0,0,1
+1994,17/10/93,Vallecano,ラージョ,Celta,セルタ,1,1,1
+1994,24/10/93,Albacete,アルバセテ,Ath Madrid,Aマドリード,2,2,1
+1994,24/10/93,Barcelona,バルセロナ,Oviedo,オビエド,1,0,0
+1994,24/10/93,Celta,セルタ,Logrones,ログローニョ,2,0,0
+1994,24/10/93,Osasuna,オサスナ,Valladolid,バジャドリード,2,0,0
+1994,24/10/93,Real Madrid,Rマドリード,Lerida,リェイダ,5,0,0
+1994,24/10/93,Sevilla,セビージャ,Tenerife,テネリフェ,4,0,0
+1994,24/10/93,Sociedad,ソシエダ,Santander,サンタンデール,2,0,0
+1994,24/10/93,Sp Gijon,スポルティング,Vallecano,ラージョ,2,0,0
+1994,24/10/93,Valencia,バレンシア,Ath Bilbao,ビルバオ,1,0,0
+1994,24/10/93,Zaragoza,サラゴサ,La Coruna,デポルティーボ,0,1,2
+1994,31/10/93,Ath Bilbao,ビルバオ,Valladolid,バジャドリード,3,0,0
+1994,31/10/93,Ath Madrid,Aマドリード,Barcelona,バルセロナ,4,3,0
+1994,31/10/93,La Coruna,デポルティーボ,Osasuna,オサスナ,3,1,0
+1994,31/10/93,Lerida,リェイダ,Sevilla,セビージャ,0,3,2
+1994,31/10/93,Logrones,ログローニョ,Sp Gijon,スポルティング,1,2,2
+1994,31/10/93,Oviedo,オビエド,Zaragoza,サラゴサ,2,1,0
+1994,31/10/93,Santander,サンタンデール,Albacete,アルバセテ,1,1,1
+1994,31/10/93,Tenerife,テネリフェ,Sociedad,ソシエダ,2,1,0
+1994,31/10/93,Valencia,バレンシア,Celta,セルタ,3,0,0
+1994,31/10/93,Vallecano,ラージョ,Real Madrid,Rマドリード,0,2,2
+1994,07/11/93,Albacete,アルバセテ,Tenerife,テネリフェ,2,3,2
+1994,07/11/93,Barcelona,バルセロナ,Santander,サンタンデール,2,1,0
+1994,07/11/93,Celta,セルタ,Ath Bilbao,ビルバオ,1,1,1
+1994,07/11/93,Osasuna,オサスナ,Oviedo,オビエド,2,0,0
+1994,07/11/93,Real Madrid,Rマドリード,Logrones,ログローニョ,2,1,0
+1994,07/11/93,Sevilla,セビージャ,Vallecano,ラージョ,3,1,0
+1994,07/11/93,Sociedad,ソシエダ,Lerida,リェイダ,1,3,2
+1994,07/11/93,Sp Gijon,スポルティング,Valencia,バレンシア,2,0,0
+1994,07/11/93,Valladolid,バジャドリード,La Coruna,デポルティーボ,0,0,1
+1994,07/11/93,Zaragoza,サラゴサ,Ath Madrid,Aマドリード,2,1,0
+1994,10/11/93,Ath Bilbao,ビルバオ,La Coruna,デポルティーボ,3,1,0
+1994,10/11/93,Ath Madrid,Aマドリード,Osasuna,オサスナ,3,0,0
+1994,10/11/93,Celta,セルタ,Sp Gijon,スポルティング,0,2,2
+1994,10/11/93,Lerida,リェイダ,Albacete,アルバセテ,0,1,2
+1994,10/11/93,Logrones,ログローニョ,Sevilla,セビージャ,1,1,1
+1994,10/11/93,Oviedo,オビエド,Valladolid,バジャドリード,1,0,0
+1994,10/11/93,Santander,サンタンデール,Zaragoza,サラゴサ,2,0,0
+1994,10/11/93,Tenerife,テネリフェ,Barcelona,バルセロナ,2,3,2
+1994,10/11/93,Valencia,バレンシア,Real Madrid,Rマドリード,0,3,2
+1994,10/11/93,Vallecano,ラージョ,Sociedad,ソシエダ,4,1,0
+1994,21/11/93,Albacete,アルバセテ,Vallecano,ラージョ,1,1,1
+1994,21/11/93,Barcelona,バルセロナ,Lerida,リェイダ,0,1,2
+1994,21/11/93,La Coruna,デポルティーボ,Oviedo,オビエド,4,0,0
+1994,21/11/93,Osasuna,オサスナ,Santander,サンタンデール,0,0,1
+1994,21/11/93,Real Madrid,Rマドリード,Celta,セルタ,2,1,0
+1994,21/11/93,Sevilla,セビージャ,Valencia,バレンシア,0,1,2
+1994,21/11/93,Sociedad,ソシエダ,Logrones,ログローニョ,2,2,1
+1994,21/11/93,Sp Gijon,スポルティング,Ath Bilbao,ビルバオ,0,1,2
+1994,21/11/93,Valladolid,バジャドリード,Ath Madrid,Aマドリード,1,1,1
+1994,21/11/93,Zaragoza,サラゴサ,Tenerife,テネリフェ,6,2,0
+1994,28/11/93,Ath Bilbao,ビルバオ,Oviedo,オビエド,1,1,1
+1994,28/11/93,Ath Madrid,Aマドリード,La Coruna,デポルティーボ,0,1,2
+1994,28/11/93,Celta,セルタ,Sevilla,セビージャ,2,1,0
+1994,28/11/93,Lerida,リェイダ,Zaragoza,サラゴサ,0,1,2
+1994,28/11/93,Logrones,ログローニョ,Albacete,アルバセテ,2,2,1
+1994,28/11/93,Santander,サンタンデール,Valladolid,バジャドリード,5,1,0
+1994,28/11/93,Sp Gijon,スポルティング,Real Madrid,Rマドリード,2,1,0
+1994,28/11/93,Tenerife,テネリフェ,Osasuna,オサスナ,1,0,0
+1994,28/11/93,Valencia,バレンシア,Sociedad,ソシエダ,0,0,1
+1994,28/11/93,Vallecano,ラージョ,Barcelona,バルセロナ,2,4,2
+1994,05/12/93,Albacete,アルバセテ,Valencia,バレンシア,3,1,0
+1994,05/12/93,Barcelona,バルセロナ,Logrones,ログローニョ,2,2,1
+1994,05/12/93,La Coruna,デポルティーボ,Santander,サンタンデール,1,0,0
+1994,05/12/93,Osasuna,オサスナ,Lerida,リェイダ,1,0,0
+1994,05/12/93,Oviedo,オビエド,Ath Madrid,Aマドリード,1,1,1
+1994,05/12/93,Real Madrid,Rマドリード,Ath Bilbao,ビルバオ,2,1,0
+1994,05/12/93,Sevilla,セビージャ,Sp Gijon,スポルティング,1,2,2
+1994,05/12/93,Sociedad,ソシエダ,Celta,セルタ,2,1,0
+1994,05/12/93,Valladolid,バジャドリード,Tenerife,テネリフェ,2,0,0
+1994,05/12/93,Zaragoza,サラゴサ,Vallecano,ラージョ,4,1,0
+1994,12/12/93,Ath Bilbao,ビルバオ,Ath Madrid,Aマドリード,3,2,0
+1994,12/12/93,Celta,セルタ,Albacete,アルバセテ,1,4,2
+1994,12/12/93,Lerida,リェイダ,Valladolid,バジャドリード,1,0,0
+1994,12/12/93,Logrones,ログローニョ,Zaragoza,サラゴサ,2,2,1
+1994,12/12/93,Real Madrid,Rマドリード,Sevilla,セビージャ,0,0,1
+1994,12/12/93,Santander,サンタンデール,Oviedo,オビエド,1,2,2
+1994,12/12/93,Sp Gijon,スポルティング,Sociedad,ソシエダ,3,2,0
+1994,12/12/93,Tenerife,テネリフェ,La Coruna,デポルティーボ,0,1,2
+1994,12/12/93,Valencia,バレンシア,Barcelona,バルセロナ,0,4,2
+1994,12/12/93,Vallecano,ラージョ,Osasuna,オサスナ,1,0,0
+1994,19/12/93,Albacete,アルバセテ,Sp Gijon,スポルティング,3,1,0
+1994,19/12/93,Ath Madrid,Aマドリード,Santander,サンタンデール,4,0,0
+1994,19/12/93,Barcelona,バルセロナ,Celta,セルタ,1,0,0
+1994,19/12/93,La Coruna,デポルティーボ,Lerida,リェイダ,2,0,0
+1994,19/12/93,Osasuna,オサスナ,Logrones,ログローニョ,1,3,2
+1994,19/12/93,Oviedo,オビエド,Tenerife,テネリフェ,1,0,0
+1994,19/12/93,Sevilla,セビージャ,Ath Bilbao,ビルバオ,1,3,2
+1994,19/12/93,Sociedad,ソシエダ,Real Madrid,Rマドリード,2,0,0
+1994,19/12/93,Valladolid,バジャドリード,Vallecano,ラージョ,1,3,2
+1994,19/12/93,Zaragoza,サラゴサ,Valencia,バレンシア,1,0,0
+1994,02/01/94,Ath Bilbao,ビルバオ,Santander,サンタンデール,1,2,2
+1994,02/01/94,Celta,セルタ,Zaragoza,サラゴサ,1,0,0
+1994,02/01/94,Lerida,リェイダ,Oviedo,オビエド,1,1,1
+1994,02/01/94,Logrones,ログローニョ,Valladolid,バジャドリード,0,0,1
+1994,02/01/94,Real Madrid,Rマドリード,Albacete,アルバセテ,2,0,0
+1994,02/01/94,Sevilla,セビージャ,Sociedad,ソシエダ,1,0,0
+1994,02/01/94,Sp Gijon,スポルティング,Barcelona,バルセロナ,2,0,0
+1994,02/01/94,Tenerife,テネリフェ,Ath Madrid,Aマドリード,1,1,1
+1994,02/01/94,Valencia,バレンシア,Osasuna,オサスナ,0,0,1
+1994,02/01/94,Vallecano,ラージョ,La Coruna,デポルティーボ,0,0,1
+1994,09/01/94,Albacete,アルバセテ,Sevilla,セビージャ,2,2,1
+1994,09/01/94,Ath Bilbao,ビルバオ,Sociedad,ソシエダ,0,0,1
+1994,09/01/94,Ath Madrid,Aマドリード,Lerida,リェイダ,0,0,1
+1994,09/01/94,Barcelona,バルセロナ,Real Madrid,Rマドリード,5,0,0
+1994,09/01/94,La Coruna,デポルティーボ,Logrones,ログローニョ,3,0,0
+1994,09/01/94,Osasuna,オサスナ,Celta,セルタ,0,1,2
+1994,09/01/94,Oviedo,オビエド,Vallecano,ラージョ,5,0,0
+1994,09/01/94,Santander,サンタンデール,Tenerife,テネリフェ,1,0,0
+1994,09/01/94,Valladolid,バジャドリード,Valencia,バレンシア,1,1,1
+1994,09/01/94,Zaragoza,サラゴサ,Sp Gijon,スポルティング,3,0,0
+1994,16/01/94,Celta,セルタ,Valladolid,バジャドリード,1,2,2
+1994,16/01/94,Lerida,リェイダ,Santander,サンタンデール,0,0,1
+1994,16/01/94,Logrones,ログローニョ,Oviedo,オビエド,2,2,1
+1994,16/01/94,Real Madrid,Rマドリード,Zaragoza,サラゴサ,3,2,0
+1994,16/01/94,Sevilla,セビージャ,Barcelona,バルセロナ,0,0,1
+1994,16/01/94,Sociedad,ソシエダ,Albacete,アルバセテ,1,1,1
+1994,16/01/94,Sp Gijon,スポルティング,Osasuna,オサスナ,7,1,0
+1994,16/01/94,Tenerife,テネリフェ,Ath Bilbao,ビルバオ,2,1,0
+1994,16/01/94,Valencia,バレンシア,La Coruna,デポルティーボ,1,3,2
+1994,16/01/94,Vallecano,ラージョ,Ath Madrid,Aマドリード,2,1,0
+1994,23/01/94,Albacete,アルバセテ,Ath Bilbao,ビルバオ,1,0,0
+1994,23/01/94,Celta,セルタ,La Coruna,デポルティーボ,0,0,1
+1994,23/01/94,Lerida,リェイダ,Tenerife,テネリフェ,1,1,1
+1994,23/01/94,Logrones,ログローニョ,Ath Madrid,Aマドリード,1,0,0
+1994,23/01/94,Real Madrid,Rマドリード,Osasuna,オサスナ,0,0,1
+1994,23/01/94,Sevilla,セビージャ,Zaragoza,サラゴサ,0,1,2
+1994,23/01/94,Sociedad,ソシエダ,Barcelona,バルセロナ,2,1,0
+1994,23/01/94,Sp Gijon,スポルティング,Valladolid,バジャドリード,2,0,0
+1994,23/01/94,Valencia,バレンシア,Oviedo,オビエド,2,2,1
